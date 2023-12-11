@@ -1,4 +1,4 @@
-# CISB62
+# CISB62 Deep Learning
 
 ## This is my midterm and final projects for CISB62
 
